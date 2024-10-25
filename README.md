@@ -1,45 +1,35 @@
+# Car Rental System
 
-Car Rental System
-A comprehensive Car Rental System built in Java, designed to streamline the process of renting vehicles. This project follows Object-Oriented Programming (OOP) principles to ensure scalability and maintainability.
+A comprehensive **Car Rental System** developed in **Java**, designed to streamline the process of renting vehicles. This project follows **Object-Oriented Programming (OOP)** principles to ensure scalability and maintainability.
 
-Table of Contents
-Features
-Technologies
-Setup
-Usage
-Project Structure
-Contributing
-License
-Features
-Car Management: Add, remove, and update car information.
-Rental System: Rent and return cars with availability checks.
-User Management: Register and manage user profiles.
-Reporting: Generate reports on rental activity.
-Technologies
-Java
-Object-Oriented Programming (OOP)
-Setup
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/adesh9199/Car-Rental-System.git
-Open the project in an IDE of your choice (e.g., IntelliJ IDEA, Eclipse).
-Configure the project as needed to support your local setup.
-Usage
-Run the project from your IDE by executing the Main class.
-Follow the on-screen instructions to interact with the system.
-Project Structure
-bash
-Copy code
-Car-Rental-System/
-│
-├── src/                      # Java source files
-│   ├── main/                 # Main application code
-│   └── test/                 # Unit and integration tests
-├── .idea/                    # IDE settings (ignored)
-├── .gitignore                # Git ignore file
-└── README.md                 # Project documentation
-Contributing
-Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
+## Table of Contents
+1. [Features](#features)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Project Structure](#project-structure)
+6. [Contributing](#contributing)
+7. [License](#license)
 
-License
+## Features
+- **Car Management**: 
+  - Add, update, and delete car information.
+  - Check availability of cars for rent.
+- **Rental System**: 
+  - Rent and return cars.
+  - Track rental history and status.
+- **User Management**: 
+  - User registration and profile management.
+- **Reporting**: 
+  - Generate rental activity reports.
+
+## Technologies
+- **Programming Language**: Java
+- **Development Paradigm**: Object-Oriented Programming (OOP)
+
+## Installation
+To set up the Car Rental System on your local machine, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/adesh9199/Car-Rental-System.git
